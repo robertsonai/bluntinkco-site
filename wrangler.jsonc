@@ -4,4 +4,5 @@
   "assets": {
     "directory": "."
   }
+  // trigger CI build
 }
