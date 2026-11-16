@@ -2,7 +2,6 @@
   "name": "weathered-glade-f72e",
   "compatibility_date": "2026-11-10",
   "assets": {
-    "directory": "."
+    "directory": "./public"
   }
-  // trigger CI build
 }
